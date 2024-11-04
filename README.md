@@ -27,11 +27,4 @@ A Java-based train reservation system with features for user login, ticket booki
 - **MySQL Server**
 - **NetBeans IDE** or any compatible IDE
 
-## Setup
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/train_reservation_system.git
-   ```
-2. **Configure Database**: Update `DBConnection.java` with your database details.
-3. **Run the project** in your IDE.
 
